@@ -1,2 +1,3 @@
-# one-page-knowledge
-Knowledge in one page
+# 一页纸知识
+知识表述都太复杂了，有没有什么能简化到一张图就看得懂？
+我们一起来搞一下吧。
